@@ -10,5 +10,4 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=USER-DENIED&color=C32A60&label=🎩&style=plastic"> </p>
 
-
- <p align="center"> <sub> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎‎ ‎ ‎ ‎  ‎ ‎‎ ‎ ‎ <a href="https://izuful.straw.page">sp ‎ ‎‎ ‎‎ ‎<a href="https://ring-master.atabook.org/">ata </a> </sub> </p>
+ <p align="center"> <sub> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href="https://izuful.straw.page">sp ‎ ‎‎ ‎‎ ‎<a href="https://ring-master.atabook.org/">ata </a> </sub> </p>
